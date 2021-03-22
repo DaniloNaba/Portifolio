@@ -17,4 +17,11 @@ Empresa: Montcalme montagens industriais, prestando serviços em: Nestle, Ajinom
 Empresa: Intecnial engenharia: prestando serviços em: Honda motors Brasil, Parmalat, Latina Hipermarcas, Bung alimentos Montagem de caldeiras e tubulação de produtos corrosivos            ( amônia)como soldador TIG 
 Empresa: Transpetro, Petrobras, soldador TIG, MIG, Eletrodo, prestando serviços em UFN1, UFN2 e UFN3, destilaria Candeias/BA, destilaria Araucária/PA.
 
+Projeto: Registro de medicamentos
+Gupo de trabalho: Pedro Henrrique, Guilherme Canassa, Leonardo Bearari
+Descrição do projeto: Criar um software que viabilize rápidez a dispença de medicamentos para pascientes da rede publica de saúde, em farmacias municipais e privadas
+criando um cadastro e unindo-o a um banco de dados único
+
+Sala de aula inovadora: onde o aluno teria mais acesso aos laboratórios, mais aulas práticas,
+
 
