@@ -26,4 +26,7 @@ criando um cadastro e unindo-o a um banco de dados único
 
 Sala de aula inovadora: onde o aluno teria mais acesso aos laboratórios, mais aulas práticas,
 
+[Requisitos de uma receita virtual.pdf](https://github.com/DaniloNaba/Portifolio/files/6231146/Requisitos.de.uma.receita.virtual.pdf)
+
+
 
